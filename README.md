@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, My name is Augusto</h1>
+<h1 align="center">Hi there! My name is Augusto</h1>
 
 Hello, my name is Augusto, I am from Peru and I love programming, currently learning JS, HTML, CSS and Swift.
 
