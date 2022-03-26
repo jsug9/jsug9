@@ -8,7 +8,7 @@ Hello, my name is Augusto, I am from Peru and I love programming, currently lear
 
 ## 🧰 Languages and Tools:
 <p align="left">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" alt="Swift" height="40" style="vertical-align:top; margin:4px">
+<img src="./icons/Swift.png" alt="Swift" height="40" style="vertical-align:top; margin:4px">
   
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" height="40" style="vertical-align:top; margin:4px">
   
