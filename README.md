@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="./icons/Banner.gif" alt="Banner">
-</p>
+<img src="./icons/Banner.gif" alt="Banner" width="100%">
 
 <h1 align="center">Hi there! My name is Augusto</h1>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=jsug9&label=Profile%20views&color=0e75b6&style=flat" alt="jsug9"/></p>
