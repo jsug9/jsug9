@@ -24,7 +24,7 @@ Hello, my name is Augusto, I am from Peru and I love programming, currently lear
 
 <img src="./icons/Bootstrap.png" alt="Bootstrap" height="60" style="vertical-align:top; margin:4px">
 
-<img src="./icons/Webpack.png" alt="Bootstrap" height="60" style="vertical-align:top; margin:4px">
+<img src="./icons/Webpack.png" alt="Webpack" height="60" style="vertical-align:top; margin:4px">
 
 <img src="./icons/Sass.png" alt="Sass" height="60" style="vertical-align:top; margin:4px">
 	
