@@ -40,11 +40,11 @@ Hello, my name is Augusto, I am from Peru and I love programming, currently lear
 
 ## 🤝 Contact Me:
 <p align="left">
-<a href="https://www.linkedin.com/in/augustogalindo" target="blank" style="vertical-align:top; margin:4px"><img src="./icons/Linkedin.png" alt="Linkedin" height="40" width="40" align="left"></a>
+<a href="https://www.linkedin.com/in/augustogalindo" target="blank" style="vertical-align:top; margin:4px"><img src="./icons/Linkedin.png" alt="Linkedin" height="60" width="60" align="left"></a>
 
-<a href="https://www.instagram.com/jsug.9/" target="blank" style="vertical-align:top; margin:4px"><img src="./icons/Instagram.png" alt="Instagram" height="40" width="40" align="left"></a>
+<a href="https://www.instagram.com/jsug.9/" target="blank" style="vertical-align:top; margin:4px"><img src="./icons/Instagram.png" alt="Instagram" height="60" width="60" align="left"></a>
 
-<a href="mailto:augusto.galindo.9@icloud.com" target="blank" style="vertical-align:top; margin:4px"><img src="./icons/Mail.png" alt="Mail" height="40" width="40" align="left"></a>
+<a href="mailto:augusto.galindo.9@icloud.com" target="blank" style="vertical-align:top; margin:4px"><img src="./icons/Mail.png" alt="Mail" height="60" width="60" align="left"></a>
 
-<a href="https://api.whatsapp.com/send?phone=51934875754&text=Hi!%20I%20saw%20your%20GitHub%20profile%20and%20wanted%20to%20get%20in%20touch%20with%20you." target="blank" style="vertical-align:top; margin:4px"><img src="./icons/WhatsApp.png" alt="WhatsApp" height="40" width="40" align="left"></a>
+<a href="https://api.whatsapp.com/send?phone=51934875754&text=Hi!%20I%20saw%20your%20GitHub%20profile%20and%20wanted%20to%20get%20in%20touch%20with%20you." target="blank" style="vertical-align:top; margin:4px"><img src="./icons/WhatsApp.png" alt="WhatsApp" height="60" width="60" align="left"></a>
 </p>
