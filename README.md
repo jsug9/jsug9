@@ -24,14 +24,14 @@ Hello, my name is Augusto, I am from Peru and I love programming, currently lear
 
 <img src="./icons/Webpack.png" alt="Bootstrap" height="40" style="vertical-align:top; margin:4px">
 
-<img src="./icons/Wordpress.png" alt="Bootstrap" height="40" style="vertical-align:top; margin:4px">
-
 <img src="./icons/Sass.png" alt="Sass" height="40" style="vertical-align:top; margin:4px">
 	
 <img src="./icons/Figma.png" alt="Figma" height="40" style="vertical-align:top; margin:4px">
 
 <img src="./icons/Photoshop.png" alt="Photoshop" height="40" style="vertical-align:top; margin:4px">
 </p>
+
+<!-- comment -->
 
 <h2>📊 My Stats</h2>
 
