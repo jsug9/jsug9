@@ -1,4 +1,5 @@
 <h1 align="center">Hi there! My name is Augusto</h1>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=jsug9&label=Profile%20views&color=0e75b6&style=flat" alt="jsug9"/></p>
 
 Hello, my name is Augusto, I am from Peru and I love programming, currently learning JS, HTML, CSS and Swift.
 
@@ -47,5 +48,3 @@ Hello, my name is Augusto, I am from Peru and I love programming, currently lear
 
 <a href="https://wa.me/+51934875754" target="blank" style="vertical-align:top; margin:4px"><img src="./icons/WhatsApp.png" alt="WhatsApp" height="40" width="40" align="left"></a>
 </p>
-
-<p align="center"><img src="https://komarev.com/ghpvc/?username=jsug9&label=Profile%20views&color=0e75b6&style=flat" alt="jsug9" /> </p>
