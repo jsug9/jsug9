@@ -31,8 +31,6 @@ Hello, my name is Augusto, I am from Peru and I love programming, currently lear
 <img src="./icons/Photoshop.png" alt="Photoshop" height="40" style="vertical-align:top; margin:4px">
 </p>
 
-<!-- comment -->
-
 <h2>📊 My Stats</h2>
 
 ![jsug9's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsug9&show_icons=true)
