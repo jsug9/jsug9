@@ -6,6 +6,7 @@ Hello, my name is Augusto, I am from Peru and I love programming, currently lear
 - 📚 I'm currently studying at Microverse.
 - 🛠 Learned Swift with Standford and Apple courses.
 - ⚡️ Fast learner.
+- 🤔 Fun fact: I didn't like the language icons available on the internet because they were not uniform, so I decided to make them myself (See below the square icons).
 
 ## 🧰 Languages and Tools:
 <p align="left">
