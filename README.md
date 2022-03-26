@@ -6,6 +6,8 @@ Hello, my name is Augusto, I am from Peru and I love programming, currently lear
 - 🛠 Learned Swift with Standford and Apple courses.
 - ⚡️ Fast learner.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jsug9&label=Profile%20views&color=0e75b6&style=flat" alt="jsug9" /> </p>
+
 ## 🧰 Languages and Tools:
 <p align="left">
 <img src="./icons/Swift.png" alt="Swift" height="60" style="vertical-align:top; margin:4px">
@@ -36,6 +38,8 @@ Hello, my name is Augusto, I am from Peru and I love programming, currently lear
 ![jsug9's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsug9&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsug9&hide=shell,ruby&layout=compact)](https://github.com/jsug9/github-readme-stats)
+
+## 🧰 Contact Me:
 
 <hr>
 
