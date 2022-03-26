@@ -15,10 +15,22 @@ Hello, my name is Augusto, I am from Peru and I love programming, currently lear
 <img src="./icons/CSS.png" alt="CSS" height="40" style="vertical-align:top; margin:4px">
   
 <img src="./icons/JS.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
-	
-<img src="./icons/Bootstrap.png" alt="Bootstrap" height="40" style="vertical-align:top; margin:4px">
-	
+
 <img src="./icons/Git.png" alt="Git" height="40" style="vertical-align:top; margin:4px">
+
+<img src="./icons/Wordpress.png" alt="Wordpress" height="40" style="vertical-align:top; margin:4px">
+
+<img src="./icons/Bootstrap.png" alt="Bootstrap" height="40" style="vertical-align:top; margin:4px">
+
+<img src="./icons/Webpack.png" alt="Bootstrap" height="40" style="vertical-align:top; margin:4px">
+
+<img src="./icons/Wordpress.png" alt="Bootstrap" height="40" style="vertical-align:top; margin:4px">
+
+<img src="./icons/Sass.png" alt="Sass" height="40" style="vertical-align:top; margin:4px">
+	
+<img src="./icons/Figma.png" alt="Figma" height="40" style="vertical-align:top; margin:4px">
+
+<img src="./icons/Photoshop.png" alt="Photoshop" height="40" style="vertical-align:top; margin:4px">
 </p>
 
 <h2>📊 My Stats</h2>
