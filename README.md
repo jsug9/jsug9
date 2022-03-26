@@ -11,6 +11,8 @@ Hello, my name is Augusto, I am from Peru and I love programming, currently lear
 ## 🧰 Languages and Tools:
 <p align="left">
 <img src="./icons/Swift.png" alt="Swift" height="60" style="vertical-align:top; margin:4px">
+
+<img src="./icons/SwiftUI.png" alt="SwiftUI" height="60" style="vertical-align:top; margin:4px">
   
 <img src="./icons/HTML.png" alt="HTML" height="60" style="vertical-align:top; margin:4px">
   
