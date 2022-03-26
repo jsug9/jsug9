@@ -38,5 +38,12 @@ Hello, my name is Augusto, I am from Peru and I love programming, currently lear
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsug9&hide=shell,ruby&layout=compact)](https://github.com/jsug9/github-readme-stats)
 
 ## 🤝 Contact Me:
+<a href="https://www.linkedin.com/in/augustogalindo" target="blank"><img src="./icons/Linkedin.png" alt="Linkedin" height="20" style="vertical-align:top; margin:4px"></a>
+
+<a href="https://www.instagram.com/jsug.9/" target="blank"><img src="./icons/Instagram.png" alt="Instagram" height="20" style="vertical-align:top; margin:4px"></a>
+
+<a href="mailto:augusto.galindo.9@icloud.com" target="blank"><img src="./icons/Mail.png" alt="Mail" height="20" style="vertical-align:top; margin:4px"></a>
+
+<a href="https://wa.me/+51934875754" target="blank"><img src="./icons/WhatsApp.png" alt="WhatsApp" height="20" style="vertical-align:top; margin:4px"></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jsug9&label=Profile%20views&color=0e75b6&style=flat" alt="jsug9" /> </p>
