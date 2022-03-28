@@ -3,7 +3,7 @@
 <h1 align="center">Hi there! My name is Augusto</h1>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=jsug9&label=Profile%20views&color=0e75b6&style=flat" alt="jsug9"/></p>
 
-Hello, my name is Augusto, I am from Peru and I love programming, currently learning JS, HTML, CSS and Swift.
+Hello, my name is Augusto, I am from Peru and I love programming, currently learning JavaScript, HTML, CSS and Swift.
 
 - 📚 I'm currently studying at Microverse.
 - 🛠 Learned Swift with Standford and Apple courses.
