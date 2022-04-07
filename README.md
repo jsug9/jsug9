@@ -40,9 +40,13 @@ Hello, my name is Augusto, I am from Peru and I love programming, currently lear
 
 <h2>📊 My Stats</h2>
 
-![jsug9's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsug9&show_icons=true&theme=dark)
+<a href='https://github.com/jsug9'>
+  <img width='460px' src='https://github-readme-stats.vercel.app/api?username=jsug9&show_icons=true&theme=dark' alt="GitHub Stats">
+</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsug9&hide=shell,ruby&layout=compact&theme=dark)](https://github.com/jsug9/github-readme-stats)
+<a href='https://github.com/jsug9'>
+  <img width='460px' src='https://github-readme-stats.vercel.app/api/top-langs/?username=jsug9&hide=shell,ruby&layout=compact&theme=dark' alt="Top Languages">
+</a>
 
 ## 🤝 Contact Me:
 <p align="left">
