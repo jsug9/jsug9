@@ -3,11 +3,12 @@
 <h1 align="center">Hi there! My name is Augusto</h1>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=jsug9&label=Profile%20views&color=0e75b6&style=flat" alt="jsug9"/></p>
 
-Hello, my name is Augusto, I am from Peru and I love programming, currently learning JS, HTML, CSS and Swift.
+Hello, my name is Augusto, I am from Peru and I love programming, currently learning JavaScript, HTML, CSS and Swift.
 
 - 📚 I'm currently studying at Microverse.
 - 🛠 Learned Swift with Standford and Apple courses.
 - ⚡️ Fast learner.
+- 👨‍💻 Available for hiring.
 - 🤔 Fun fact: I didn't like the language icons available on the internet because they were not uniform, so I decided to make them myself (See below the square icons).
 
 ## 🧰 Languages and Tools:
@@ -39,9 +40,13 @@ Hello, my name is Augusto, I am from Peru and I love programming, currently lear
 
 <h2>📊 My Stats</h2>
 
-![jsug9's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsug9&show_icons=true&theme=dark)
+<a href='https://github.com/jsug9'>
+  <img width='420' src='https://github-readme-stats.vercel.app/api?username=jsug9&show_icons=true&theme=dark' alt="GitHub Stats">
+</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsug9&hide=shell,ruby&layout=compact&theme=dark)](https://github.com/jsug9/github-readme-stats)
+<a href='https://github.com/jsug9'>
+  <img width='420' src='https://github-readme-stats.vercel.app/api/top-langs/?username=jsug9&hide=shell,ruby,scss&layout=compact&theme=dark' alt="Top Languages">
+</a>
 
 ## 🤝 Contact Me:
 <p align="left">
