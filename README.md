@@ -56,6 +56,8 @@ Hello, my name is Augusto, I am from Peru and I love programming, currently lear
 <p align="left">
 <a href="https://www.linkedin.com/in/augustogalindo" style="vertical-align:top; margin:4px"><img src="./Assets/Icons/Contact/Linkedin.png" alt="Linkedin" height="50" width="50" align="left"></a>
 
+<a href="https://angel.co/u/augusto-galindo-ali" style="vertical-align:top; margin:4px"><img src="./Assets/Icons/Contact/AngelList.png" alt="AngelList" height="50" width="50" align="left"></a>
+
 <a href="https://www.instagram.com/jsug.9/" style="vertical-align:top; margin:4px"><img src="./Assets/Icons/Contact/Instagram.png" alt="Instagram" height="50" width="50" align="left"></a>
 
 <a href="mailto:augusto.galindo.9@icloud.com" style="vertical-align:top; margin:4px"><img src="./Assets/Icons/Contact/Mail.png" alt="Mail" height="50" width="50" align="left"></a>
