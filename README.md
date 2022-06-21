@@ -35,6 +35,14 @@ Hello, my name is Augusto, I am from Peru and I love programming, currently lear
 
 <img src="./Assets/Icons/Languages/Redux.png" alt="Redux" height="60" style="vertical-align:top; margin:4px">
 
+<img src="./Assets/Icons/Languages/Ruby.png" alt="Ruby" height="60" style="vertical-align:top; margin:4px">
+
+<img src="./Assets/Icons/Languages/ROR.png" alt="ROR" height="60" style="vertical-align:top; margin:4px">
+
+<img src="./Assets/Icons/Languages/SQL.png" alt="SQL" height="60" style="vertical-align:top; margin:4px">
+
+<img src="./Assets/Icons/Languages/Postgresql.png" alt="Postgresql" height="60" style="vertical-align:top; margin:4px">
+
 <img src="./Assets/Icons/Languages/Sass.png" alt="Sass" height="60" style="vertical-align:top; margin:4px">
 	
 <img src="./Assets/Icons/Languages/Figma.png" alt="Figma" height="60" style="vertical-align:top; margin:4px">
