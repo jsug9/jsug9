@@ -57,7 +57,7 @@ Hello, my name is Augusto, I am from Peru and I love programming, currently lear
 </a>
 
 <a href='https://github.com/jsug9'>
-  <img width='420' src='https://github-readme-stats.vercel.app/api/top-langs/?username=jsug9&hide=shell,ruby,scss&layout=compact&theme=dark' alt="Top Languages">
+  <img width='420' src='https://github-readme-stats.vercel.app/api/top-langs/?username=jsug9&layout=compact&theme=dark' alt="Top Languages">
 </a>
 
 ## 🤝 Contact Me:
