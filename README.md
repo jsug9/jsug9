@@ -3,9 +3,9 @@
 <h1 align="center">Hi there! My name is Augusto</h1>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=jsug9&label=Profile%20views&color=0e75b6&style=flat" alt="jsug9"/></p>
 
-Hello, my name is Augusto, I am from Peru and I love programming, currently learning JavaScript, HTML, CSS and Swift.
+Hello, my name is Augusto, I am a <strong>Ruby</strong> full-stack developer.
 
-- 📚 I'm currently studying at Microverse.
+- 💼 Working at Ditel Group.
 - 🛠 Learned Swift with Standford and Apple courses.
 - ⚡️ Fast learner.
 - 👨‍💻 Available for hiring.
